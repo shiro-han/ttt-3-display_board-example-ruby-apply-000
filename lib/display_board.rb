@@ -5,7 +5,10 @@ def display_board
   
   puts cell + pipe + cell + pipe + cell
   puts row
-  
+  puts cell + pipe + cell + pipe + cell
+  puts row
+  puts cell + pipe + cell + pipe + cell
+  puts row
   
 end
 
