@@ -1,7 +1,10 @@
 def display_board
   cell = "   "
+  pipe = "|"
+  row = "-----------"
   
-  
+  puts cell + pipe + cell + pipe + cell
+  puts row
   
   
 end
